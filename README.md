@@ -48,12 +48,6 @@
 
 ---
 
-## 📆 Development Timeline
-
-- **April 2024 – May 2024**  
-  Designed, developed, and tested full app functionality from scratch, focusing on clean architecture and smooth UX for offline contact management.
-
----
 
 ## 📸 Screenshots
 
@@ -61,9 +55,9 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/placeholder-splash.png" alt="Splash Screen" width="220" height="450"/><br/>Splash Screen</td>
-    <td><img src="https://github.com/user-attachments/assets/placeholder-contactlist.png" alt="Contact List" width="220" height="450"/><br/>Contact List</td>
-    <td><img src="https://github.com/user-attachments/assets/placeholder-addcontact.png" alt="Add Contact" width="220" height="450"/><br/>Add Contact</td>
+    <td><img src="https://github.com/user-attachments/assets/508c1e1a-200f-4331-949c-264556184611" alt="Contact List" width="220" height="450"/><br/>Splash Screen</td>
+    <td><img src="https://github.com/user-attachments/assets/df87281a-0e60-43e2-b487-41c500714e56" alt="Swipe to Call" width="220" height="450"/><br/>Contact List</td>
+    <td><img src="https://github.com/user-attachments/assets/45100198-ffa8-455e-a7fa-a332fefd281b" alt="Add Contact" width="220" height="450"/><br/>Add Contact</td>
   </tr>
 </table>
 
@@ -71,5 +65,5 @@
 
 ## 🎥 Demo Video
 
-[Click here to watch the demo](https://drive.google.com/your-contactapp-demo-link)
+[Click here to watch the demo](https://drive.google.com/file/d/1N2V-H2tNHJsUvCgus_V3qApb1MTCfO4L/view?usp=drivesdk)
 
